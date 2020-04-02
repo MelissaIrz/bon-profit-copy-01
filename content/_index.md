@@ -38,7 +38,7 @@ sections:
   features:
   - title: A casa
     text: Envío a domicicilio en más de 6 productos típicos de nuestra despensa
-    para que no dejes de comer sano vayas donde vayas.
+      para que no dejes de comer sano vayas donde vayas.
     icon: fa-paper-plane-o
   - title: Casi free
     text: Gracias a la política de precios bajos siempre dispondrás 
