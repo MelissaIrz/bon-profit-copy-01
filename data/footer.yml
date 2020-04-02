@@ -1,21 +1,21 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
-    url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
+#  - title: Twitter
+#    icon: fa-twitter
+#    url: '#'
+#  - title: Facebook
+#    icon: fa-facebook
+#    url: '#'
+#  - title: Instagram
+#    icon: fa-instagram
+#    url: '#'
+#  - title: Dribbble
+#    icon: fa-dribbble
+#    url: '#'
   - title: Email
     icon: fa-envelope-o
     url: '#'
-copyright: '&copy; Spectral'
+copyright: '&copy; Bon Profit'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: Hecho con amor en Valencia 🥘
+    url: 'http://www.picassent.es/'
     new_window: true

@@ -12,10 +12,9 @@ banner:
 sections:
 - type: icons
   title: |-
-    Arcu aliquet vel lobortis ata nisl
-    eget augue amet aliquet nisl cep donec
-  subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
-    \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+    Nuestros valores siempre presente
+  subtitle: "Trabajamos muy duro para conseguir precios bajos todos los días,
+    \ \npara ello hablamos con agricultores de toda la terreta y les ofrecemos el mejor precio.
     \ "
   section_id: one
   background_style: style1
@@ -31,19 +30,19 @@ sections:
     style: style3
   component: icons.html
 - type: features
-  title: Accumsan mus tortor nunc aliquet
-  subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
-    \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper."
+  title: Nuestros servicios
+  subtitle: "En Bon profit nos comprometemos a mantener nuestra gran calidad
+    \ \nadesde nuestras bases, por lo que siempre mejoramos"
   section_id: three
   background_style: style3
   features:
-  - title: Arcu accumsan
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
+  - title: A casa
+    text: Envío a domicicilio en más de 6 productos típicos de nuestra despensa
+    para que no dejes de comer sano vayas donde vayas.
     icon: fa-paper-plane-o
-  - title: Ac Augue Eget
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
+  - title: Casi free
+    text: Gracias a la política de precios bajos siempre dispondrás 
+      del mejor precio, sea cual sea el producto.
     icon: fa-laptop
   - title: Mus Scelerisque
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
@@ -64,20 +63,16 @@ sections:
   component: features.html
   feature_icons: []
 - type: cta
-  title: Arcue ut vel commodo
-  text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
-    fringilla.
+  title: Llámanos para pasar al siguiente escalón
+  text: Llega a la cumbre de la alimentación gracias a uno de nuestros
+        asesores no remunerados, lo hacen porque disfrután ayudando.
   section_id: cta
   background_style: style4
   actions:
-  - label: Activate
+  - label: Contacta
     url: "/generic"
     is_scrolly: false
     is_primary: true
-  - label: Learn More
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
   component: cta.html
 layout: home
 menu:
