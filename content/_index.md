@@ -30,30 +30,6 @@ sections:
     icon: fa-code
     style: style3
   component: icons.html
-- type: spotlights
-  title: Spotlights Section
-  section_id: two
-  background_style: style2
-  spotlights:
-  - title: |-
-      Magna primis lobortis
-      sed ullamcorper
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic01.jpg
-  - title: |-
-      Tortor dolore feugiat
-      elementum magna
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic02.jpg
-  - title: |-
-      Augue eleifend aliquet
-      sed condimentum
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic03.jpg
-  component: spotlights.html
 - type: features
   title: Accumsan mus tortor nunc aliquet
   subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
