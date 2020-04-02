@@ -5,7 +5,7 @@ background_style: style5
 layout: page
 menu:
   main:
-    name: Generic
+    name: Nosotros
     weight: 2
 
 ---

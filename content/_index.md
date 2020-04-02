@@ -81,7 +81,7 @@ sections:
 layout: home
 menu:
   main:
-    name: Home
+    name: Inicio
     weight: 1
 
 ---
