@@ -1,11 +1,9 @@
 ---
-title: Home
+title: Bon Profit
 banner:
-  title: Spectral
+  title: Bon Profi
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+    Empresa 100% de productos valencianos.
   actions:
     - label: Activate
       url: /generic
