@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://api.netlify.com/build_hooks/5e8620c1e268cec7315a784a
 sections:
 - type: directory
   path: content
