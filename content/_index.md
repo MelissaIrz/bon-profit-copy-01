@@ -62,6 +62,7 @@ sections:
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-flag-o
   component: features.html
+  feature_icons: []
 - type: cta
   title: Arcue ut vel commodo
   text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
